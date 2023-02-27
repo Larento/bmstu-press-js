@@ -1,0 +1,20 @@
+{
+  "name": "bs2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@lillallol/outline-pdf": "^4.0.0",
+    "archiver": "^5.3.1",
+    "fast-xml-parser": "^4.0.7",
+    "formdata-node": "^4.3.2",
+    "got": "^12.0.4",
+    "node-html-parser": "^5.3.3",
+    "node-stream-zip": "^1.15.0",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^14.1.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
